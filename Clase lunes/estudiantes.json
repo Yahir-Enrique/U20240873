@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "Yahir",
+    "edad": 16,
+    "carrera": "Ing en desarrollo"
+  },
+  {
+    "nombre": "ELi",
+    "edad": 20,
+    "carrera": "Ing en desarrollo"
+  },
+  {
+    "nombre": "Eithan",
+    "edad": 17,
+    "carrera": "Ing en desarrollo"
+  },
+  {
+    "nombre": "maicol",
+    "edad": 23,
+    "carrera": "arquitectura"
+  },
+  {
+    "nombre": "eli",
+    "edad": 25,
+    "carrera": "software"
+  }
+]
